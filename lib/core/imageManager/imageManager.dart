@@ -3,4 +3,5 @@ class Imagemanager {
   static final String mainLayoutTitleImage = "${base}availableNow.png";
   static final String testimage = "${base}testimage.png";
   static final String watchNow = "${base}watchNow.png";
+  static final String avatar = "${base}avatar.png";
 }
